@@ -15,7 +15,7 @@ import (
 
 const (
 	USDT_ADDRESS = "0xdAC17F958D2ee523a2206206994597C13D831ec7"
-	RPC_URL      = "https://rpc.ankr.com/eth"
+	RPC_URL      = "https://1rpc.io/eth"
 )
 
 func main() {
